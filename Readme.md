@@ -43,6 +43,8 @@ img.dlsite.jp
 
 个人主页首页左侧栏下面有个农场游戏，每天一次有几率得点数（基本都是得1点）；是ajax。
 
+部分游戏需要转区（尤其是WolfMaker的），解压可用360压缩的“压缩包语言”功能，运行可用Locale Emulator。有的游戏不能自由调整大小，可用ResizeEnableRunner。
+
 英文站和台湾站没有研究过，只知道数据不通用。
 
 ## Steam
