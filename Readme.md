@@ -6,7 +6,7 @@
 
 曾经只有dns污染，能用hosts解决。从2021年2月左右开始升级为SNI RST，hosts无效不用试了；幸好IP没被封。
 
-我推荐用 <https://github.com/Macronut/TCPioneer>。免费，且是直连，如果运气好CDN没问题，下载速度会非常快。
+我推荐用 <https://github.com/macronut/ghostcp>。免费，且是直连，如果运气好CDN没问题，下载速度会非常快。
 
 下载Release，解压，修改`default.conf`为以下内容：
 
@@ -57,5 +57,5 @@ img.dlsite.jp
 
 * <https://store.steampowered.com/publisher/Kagura>
 * <https://store.steampowered.com/publisher/otakuplan>
-* <https://store.steampowered.com/publisher/wasabiE>
+* ~~<https://store.steampowered.com/publisher/wasabiE>~~ 全锁区了……
 * <https://store.steampowered.com/search/?publisher=Paradise%20Project>
