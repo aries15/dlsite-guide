@@ -47,6 +47,8 @@ img.dlsite.jp
 
 英文站和台湾站没有研究过，只知道数据不通用。
 
+中文游戏列表：https://ch.dlsite.com/matome/155241
+
 ## Steam
 
 一小部分游戏上了Steam。一般来说Steam上的原价就等于DLsite上-50%了（但也有例外的），而且Steam还能再打折，还能靠SteamDB查看历史最低价。因此我个人优先在Steam上买。
@@ -58,4 +60,4 @@ img.dlsite.jp
 * <https://store.steampowered.com/publisher/Kagura>
 * <https://store.steampowered.com/publisher/otakuplan>
 * ~~<https://store.steampowered.com/publisher/wasabiE>~~ 全锁区了……
-* <https://store.steampowered.com/search/?publisher=Paradise%20Project>
+* ~~<https://store.steampowered.com/search/?publisher=Paradise%20Project>~~ 原有的游戏都下架了
