@@ -49,8 +49,6 @@ img.dlsite.jp
 
 部分游戏需要转区（尤其是WolfMaker的），解压可用360压缩的“压缩包语言”功能，运行可用Locale Emulator，路径一定要是纯英文。有的游戏不能自由调整大小，可用ResizeEnableRunner。
 
-英文站和台湾站没有研究过，只知道数据不通用。
-
 中文游戏列表：https://ch.dlsite.com/matome/155241
 
 汉化工具：https://trs.mtool.app/release.php 支持各种RPG和VisualNovel游戏的翻译+修改，可能稍微有一点使用门槛，推荐去B站看教程视频。
