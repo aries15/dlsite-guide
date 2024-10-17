@@ -1,12 +1,14 @@
 # DLsite使用指南
 
-原本是写在知乎上的，曾经被人举报删了一次回答，现在居然整个问题都被举报没了。
+原本是写在知乎上的，曾经被人举报删了一次回答，后来居然整个问题都被举报没了。
 
 ## 访问
 
 曾经只有dns污染，能用hosts解决。从2021年2月左右开始升级为SNI RST，~~hosts无效不用试了~~；幸好IP没被封。不知从什么时候开始，又只有dns污染了，那hosts就可用了。
 
-我推荐用 <https://github.com/macronut/ghostcp>。免费，且是直连，如果运气好CDN没问题，下载速度会非常快。**实测香港的CloudFront非常好**，而台湾的直连就不太行。
+DL官方提供了一个加速器：https://dlbooster.com/
+
+我个人用 <https://github.com/macronut/ghostcp>。免费，且是直连，如果运气好CDN没问题，下载速度会非常快。**实测香港的CloudFront非常好**，而台湾的直连就不太行。
 
 下载Release，解压，修改`default.conf`为以下内容：
 
@@ -50,6 +52,8 @@ img.dlsite.jp
 英文站和台湾站没有研究过，只知道数据不通用。
 
 中文游戏列表：https://ch.dlsite.com/matome/155241
+
+汉化工具：https://trs.mtool.app/release.php 支持各种RPG和VisualNovel游戏的翻译+修改，可能稍微有一点使用门槛，推荐去B站看教程视频。
 
 ## Steam
 
