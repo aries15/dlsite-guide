@@ -63,5 +63,6 @@ img.dlsite.jp
 
 * <https://store.steampowered.com/publisher/Kagura>
 * <https://store.steampowered.com/publisher/otakuplan>
+* <https://store.steampowered.com/publisher/Saikey>
 * ~~<https://store.steampowered.com/publisher/wasabiE>~~ 全锁区了……
 * ~~<https://store.steampowered.com/search/?publisher=Paradise%20Project>~~ 原有的游戏都下架了
