@@ -67,6 +67,7 @@ img.dlsite.jp
 * <https://store.steampowered.com/publisher/BOKI/>
 * ~~<https://store.steampowered.com/publisher/wasabiE>~~ 全锁区了……
 * ~~<https://store.steampowered.com/search/?publisher=Paradise%20Project>~~ 原有的游戏都下架了
+* <https://steamgalgame.com/> 收集了一些汉化补丁
 
 ## 关于“爱心分享”网站
 
