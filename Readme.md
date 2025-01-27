@@ -65,7 +65,8 @@ img.dlsite.jp
 * <https://store.steampowered.com/publisher/Kagura>
 * <https://store.steampowered.com/publisher/otakuplan>
 * <https://store.steampowered.com/publisher/Saikey>
-* <https://store.steampowered.com/publisher/BOKI/>
+* <https://store.steampowered.com/publisher/BOKI>
+* <https://store.steampowered.com/publisher/hanabigames>
 * <https://store.steampowered.com/publisher/072Project> 大量游戏锁区，在SteamDB可以看到
 * <https://store.steampowered.com/publisher/shiravune> 偏Gal
 * ~~<https://store.steampowered.com/publisher/wasabiE>~~ 全锁区了……
