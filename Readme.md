@@ -60,7 +60,7 @@ img.dlsite.jp
 
 虽然DLsite是Steam的发行商，但发行了的游戏却少得可怜。偶有作者自己发行的。有的游戏还锁区。
 
-主要还是靠以下几个发行商，且基本还会汉化：
+主要还是靠以下几个发行商，有几个专门做汉化：
 
 * <https://store.steampowered.com/publisher/Kagura>
 * <https://store.steampowered.com/publisher/otakuplan>
