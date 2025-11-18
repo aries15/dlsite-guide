@@ -63,10 +63,14 @@ img.dlsite.jp
 主要还是靠以下几个发行商，有几个专门做汉化：
 
 * <https://store.steampowered.com/publisher/Kagura>
+  * <https://kagurafan.com/>
 * <https://store.steampowered.com/publisher/otakuplan>
+  * <https://otaku-plan.com/>
 * <https://store.steampowered.com/publisher/Saikey>
 * <https://store.steampowered.com/publisher/BOKI>
 * <https://store.steampowered.com/publisher/hanabigames>
+* <https://store.steampowered.com/developer/TenseiGames>
+  * <https://tensei-games.tokyo/index.php/zh/top-cn/>
 * <https://store.steampowered.com/publisher/072Project> 大量游戏锁区 <https://steamdb.info/franchise/072+Project+X/>
 * <https://store.steampowered.com/publisher/shiravune> 偏Gal
 * <https://steamdb.info/publisher/Mango+Party/> 全锁区
