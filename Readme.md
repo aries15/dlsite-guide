@@ -67,6 +67,7 @@ img.dlsite.jp
 * <https://store.steampowered.com/publisher/otakuplan>
   * <https://otaku-plan.com/>
 * <https://store.steampowered.com/publisher/Saikey>
+  * <https://saikeystudios.com/zh-hans/>
 * <https://store.steampowered.com/publisher/BOKI>
 * <https://store.steampowered.com/publisher/hanabigames>
 * <https://store.steampowered.com/developer/TenseiGames>
