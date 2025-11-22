@@ -68,13 +68,13 @@ img.dlsite.jp
   * <https://otaku-plan.com/>
 * <https://store.steampowered.com/publisher/Saikey>
   * <https://saikeystudios.com/zh-hans/>
-* <https://store.steampowered.com/publisher/BOKI>
+* <https://store.steampowered.com/publisher/BokiBokiGame>
 * <https://store.steampowered.com/publisher/hanabigames>
 * <https://store.steampowered.com/developer/TenseiGames>
   * <https://tensei-games.tokyo/index.php/zh/top-cn/>
-* <https://store.steampowered.com/publisher/072Project> 大量游戏锁区 <https://steamdb.info/franchise/072+Project+X/>
+* <https://store.steampowered.com/publisher/072Project> 大量锁区 <https://steamdb.info/publisher/072+Project/>
 * <https://store.steampowered.com/publisher/shiravune> 偏Gal
-* <https://steamdb.info/publisher/Mango+Party/> 全锁区
+* <https://store.steampowered.com/publisher/MangoParty> 全锁区 <https://steamdb.info/publisher/Mango+Party/>
 * <https://store.steampowered.com/publisher/wasabiE> 全锁区 <https://steamdb.info/publisher/WASABI+entertainment/>
 * ~~<https://store.steampowered.com/search/?publisher=Paradise%20Project>~~ 原有的游戏都下架了
 * <https://steamgalgame.com/> 收集了一些汉化补丁
