@@ -7,7 +7,7 @@
 
 曾经只有dns污染，能用hosts解决。从2021年2月左右开始升级为SNI RST，~~hosts无效不用试了~~；幸好IP没被封。不知从什么时候开始，又只有dns污染了，那hosts就可用了。
 
-DL官方提供了一个加速器：https://dlbooster.com/
+DL官方提供了一个加速器：<https://dlbooster.com>
 
 我个人用 <https://github.com/macronut/ghostcp>。免费，且是直连，如果运气好CDN没问题，下载速度会非常快。**实测香港的CloudFront非常好**，而台湾的直连就不太行。
 
@@ -25,6 +25,8 @@ img.dlsite.jp
 再运行start_service.bat或者install_service.bat即可。
 
 当然，普通梯子也是可以的。
+
+或者可以用Cloudflare的Warp+。
 
 ## 使用
 
@@ -73,6 +75,7 @@ img.dlsite.jp
 * <https://store.steampowered.com/developer/TenseiGames>
   * <https://tensei-games.tokyo/index.php/zh/top-cn/>
 * <https://store.steampowered.com/publisher/072Project> 大量锁区 <https://steamdb.info/publisher/072+Project/>
+  * <https://072project.com/r18/cn/patch>
 * <https://store.steampowered.com/publisher/shiravune> 偏Gal
 * <https://store.steampowered.com/publisher/MangoParty> 全锁区 <https://steamdb.info/publisher/Mango+Party/>
 * <https://store.steampowered.com/publisher/wasabiE> 全锁区 <https://steamdb.info/publisher/WASABI+entertainment/>
