@@ -11,21 +11,6 @@ DL官方提供了一个加速器：<https://dlbooster.com>
 
 我个人用 <https://github.com/macronut/ghostcp>。免费，且是直连，如果运气好CDN没问题，下载速度会非常快。**实测香港的CloudFront非常好**，而台湾的直连就不太行。
 
-下载Release，解压，修改`default.conf`为以下内容：
-
-```
-ecs=111.0.0.0
-method=w-md5
-server=8.8.8.8:53
-dlsite.com
-.dlsite.com
-img.dlsite.jp
-```
-
-再运行start_service.bat或者install_service.bat即可。
-
-当然，普通梯子也是可以的。
-
 或者可以用Cloudflare的Warp+。
 
 ## 使用
