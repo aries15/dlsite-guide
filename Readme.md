@@ -9,7 +9,7 @@
 
 DL官方提供了一个加速器：<https://dlbooster.com>
 
-我个人用 <https://github.com/macronut/ghostcp>。免费，且是直连，如果运气好CDN没问题，下载速度会非常快。**实测香港的CloudFront非常好**，而台湾的直连就不太行。
+我个人用 <https://github.com/macronut/ghostcp>。免费，且是直连，如果运气好CDN没问题，下载速度会非常快。**实测香港的CloudFront非常好**，而台湾的直连就不太行。不过有一定使用门槛。
 
 或者可以用Cloudflare的Warp+。
 
