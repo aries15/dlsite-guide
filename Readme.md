@@ -39,12 +39,6 @@ DL官方提供了一个加速器：<https://dlbooster.com>
 
 “评论”：是需要审核的，曾经只能用日文，现在也允许中文了。完成后额外获得至多100点，一般就50点。
 
-部分游戏需要转区（尤其是WolfMaker的），解压可用360压缩的“压缩包语言”功能，运行可用Locale Emulator，路径一定要是纯英文。
-
-有的游戏不能自由调整窗口大小，或原生分辨率低：推荐用Magpie，如果电脑性能差可用ResizeEnableRunner。
-
-汉化工具：https://trs.mtool.app/release.php 支持各种RPG和VisualNovel游戏的翻译+修改。有一点使用门槛，推荐去B站看教程视频。
-
 ## Steam
 
 一小部分游戏上了Steam。一般来说Steam上的原价就等于DLsite上-50%了（但也有例外的），而且Steam还能再打折，还能靠SteamDB查看历史最低价。因此我个人优先在Steam上买。
@@ -92,7 +86,17 @@ DL官方提供了一个加速器：<https://dlbooster.com>
 
 我只能提醒：**不要忽略网站倒闭的可能**。以及倒闭后，贴吧里某些恶意评论发的*回家*链接，往往是**交钱后就拉黑了**，能骗一个是一个。
 
-## RPG Maker的*声音*
+## 游玩经验
+
+部分游戏需要转区（尤其是WolfMaker的）：解压可用360压缩的“压缩包语言”功能。运行可用Locale Emulator，路径一定要是纯英文。
+
+有的游戏不能自由调整窗口大小，或原生分辨率低：推荐用Magpie，如果电脑性能差可用ResizeEnableRunner。\
+Magpie还能配合NV smooth mothion插帧到120，但多次缩放有内存泄漏。
+
+汉化工具+修改器：https://trs.mtool.app/release.php 支持各种RPG和VisualNovel的翻译。有一点使用门槛，推荐去B站看教程视频。\
+对于WolfMaker，使用它运行后，存档将不再与原版通用。
+
+### RPG Maker的*声音*
 
 * BGM 背景音乐
 * BGS 背景音效，如恐怖地方的风声
