@@ -15,7 +15,7 @@ DL官方提供了一个加速器：<https://dlbooster.com>
 
 ## 使用
 
-首先推荐看WH“WH黑企鹅”大佬的文章：
+首先推荐看网友“WH黑企鹅”大佬的文章：
 
 * [超详细图解DLsite基本使用方法](https://www.weibo.com/ttarticle/p/show?id=2309404304814015141577)
 * [DLsite进阶版使用教程](https://www.weibo.com/ttarticle/p/show?id=2309404265719100494880)
