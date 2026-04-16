@@ -60,6 +60,7 @@ DL官方提供了一个加速器：<https://dlbooster.com>
 * <https://store.steampowered.com/publisher/072Project> 大量锁区 <https://steamdb.info/publisher/072+Project/>
   * <https://072project.com/r18/cn/patch>
 * <https://store.steampowered.com/publisher/shiravune> 偏Gal
+  * <https://www.patch.moe/>
 * <https://store.steampowered.com/publisher/MangoParty> 全锁区 <https://steamdb.info/publisher/Mango+Party/>
 * <https://store.steampowered.com/publisher/wasabiE> 全锁区 <https://steamdb.info/publisher/WASABI+entertainment/>
 * ~~<https://store.steampowered.com/search/?publisher=Paradise%20Project>~~ 原有的游戏都下架了
