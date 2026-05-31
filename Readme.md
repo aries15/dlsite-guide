@@ -39,6 +39,8 @@ DL官方提供了一个加速器：<https://dlbooster.com>
 
 “评论”：是需要审核的，曾经只能用日文，现在也允许中文了。完成后额外获得至多100点，一般就50点。
 
+使用了AI技术的游戏，必须用JP节点才能查看，否则会跳转到首页。
+
 ## Steam
 
 一小部分游戏上了Steam。一般来说Steam上的原价就等于DLsite上-50%了（但也有例外的），而且Steam还能再打折，还能靠SteamDB查看历史最低价。因此我个人优先在Steam上买。
@@ -59,7 +61,7 @@ DL官方提供了一个加速器：<https://dlbooster.com>
   * <https://tensei-games.tokyo/index.php/zh/top-cn/>
 * <https://store.steampowered.com/publisher/072Project> 大量锁区 <https://steamdb.info/publisher/072+Project/>
   * <https://072project.com/r18/cn/patch>
-* <https://store.steampowered.com/publisher/shiravune> 偏Gal
+* <https://store.steampowered.com/publisher/shiravune> 偏Gal。某游戏存在机翻且质量差的问题
   * <https://www.patch.moe/>
 * <https://store.steampowered.com/publisher/MangoParty> 全锁区 <https://steamdb.info/publisher/Mango+Party/>
 * <https://store.steampowered.com/publisher/wasabiE> 全锁区 <https://steamdb.info/publisher/WASABI+entertainment/>
